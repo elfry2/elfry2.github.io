@@ -41,7 +41,7 @@ skills = [
 	},
 	{
 		icon: "",
-		name: "Git & Github",
+		name: "Git & GitHub",
 		description: "branching, merging, fork, pull request, etc.",
 	},
 	{
