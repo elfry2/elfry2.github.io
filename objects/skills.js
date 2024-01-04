@@ -12,7 +12,7 @@ skills = [
 	{
 		icon: "",
 		name: "PHP",
-		description: "array sorting & filtering, form validation, OOP, exception handling, ",
+		description: "array sorting & filtering, form validation, OOP, exception handling, etc.",
 	},
 	{
 		icon: "",
