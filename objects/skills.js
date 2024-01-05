@@ -44,11 +44,11 @@ skills = [
 		name: "Git & GitHub",
 		description: "branching, merging, fork, pull request, etc.",
 	},
-	{
-		icon: "",
-		name: "OOAD via UML 2.0",
-		description: "use case, class, sequence, etc.", 
-	},
+	// {
+	// 	icon: "",
+	// 	name: "OOAD via UML 2.0",
+	// 	description: "use case, class, sequence, etc.", 
+	// },
 	{
 		icon: "",
 		name: "RESTful API",
