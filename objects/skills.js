@@ -59,4 +59,9 @@ skills = [
 		name: "RESTful API",
 		description: "",
 	},
+	{
+		icon: "",
+		name: "Principles",
+		description: "SOLID, DRY, KISS, etc.",
+	},
 ];
