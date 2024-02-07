@@ -41,6 +41,11 @@ skills = [
 	},
 	{
 		icon: "",
+		name: "React",
+		description: "JSX, props, routing, memoisation, hooks, custom hooks, etc.",
+	},
+	{
+		icon: "",
 		name: "Git & GitHub",
 		description: "branching, merging, fork, pull request, etc.",
 	},
