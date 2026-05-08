@@ -1,4 +1,6 @@
-# React + Vite
+# elfry2.github.io
+
+My full-stack web developer portfolio. Made with Vite, React, Tailwind, and gh-pages.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
