@@ -14,7 +14,7 @@
     "screenshot": null
   },
   {
-    "name": "ASAD",
+    "name": "depresi",
     "year": "2023",
     "description": "An Expert system for depression screening using the naive bayes algorithm",
     "tags": ["Laravel", "MySQL", "Bootstrap"],
@@ -40,5 +40,5 @@
     "description": "An application to record the in-and-outs of supplies in Kantor Imigrasi Kelas I TPI Pekanbaru",
     "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
-  },
+  }
 ]
