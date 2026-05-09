@@ -4,21 +4,24 @@
     "year": "2025",
     "description": "An ERP application tailored to the unique business needs of PT Berkah Tirta Wahana",
     "tags": ["React", "Laravel", "PostgreSQL"],
-    "screenshot": null
+    "screenshot": null,
+    "image": "/assets/Screenshot 2026-05-09 113634.png"
   },
   {
     "name": "dekita",
     "year": "2023",
     "description": "An multi-list to-do-list application built on Laravel 10, which I use as the template for my other Laravel apps at the time",
     "tags": ["Laravel", "MySQL", "Bootstrap"],
-    "screenshot": null
+    "screenshot": null,
+    "image": "/assets/373943175-c1d5fe8e-7e4d-4848-98aa-ba72bf0bdc2a.png"
   },
   {
     "name": "depresi",
     "year": "2023",
     "description": "An Expert system for depression screening using the naive bayes algorithm",
     "tags": ["Laravel", "MySQL", "Bootstrap"],
-    "screenshot": null
+    "screenshot": null,
+    "image": "/assets/224542705-9163a030-b322-4709-86da-3b108c12fa16.png"
   },
   {
     "name": "Cyberpsychology Paper Submission & Acceptance System",
