@@ -1,44 +1,44 @@
 [
   {
-    "name": "Project Alpha",
-    "year": "2024",
-    "description": "Distributed task queue handling 50k jobs/sec. Reduced p99 latency by 40% through smarter backpressure.",
-    "tags": ["go", "redis", "k8s"],
+    "name": "BTW-ERP",
+    "year": "2025",
+    "description": "An ERP application tailored to the unique business needs of PT Berkah Tirta Wahana",
+    "tags": ["React", "Laravel", "PostgreSQL"],
     "screenshot": null
   },
   {
-    "name": "Project Beta",
+    "name": "dekita",
     "year": "2023",
-    "description": "Event-driven data pipeline ingesting real-time telemetry from 10k+ IoT devices into a queryable lakehouse.",
-    "tags": ["typescript", "kafka", "dbt"],
+    "description": "An multi-list to-do-list application built on Laravel 10, which I use as the template for my other Laravel apps at the time",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
   },
   {
-    "name": "Project Gamma",
-    "year": "2022",
-    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
-    "tags": ["terraform", "aws", "grafana"],
+    "name": "ASAD",
+    "year": "2023",
+    "description": "An Expert system for depression screening using the naive bayes algorithm",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
   },
   {
-    "name": "Project Gamma",
-    "year": "2022",
-    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
-    "tags": ["terraform", "aws", "grafana"],
+    "name": "Cyberpsychology Paper Submission & Acceptance System",
+    "year": "2023",
+    "description": "A paper submission and acceptance application built for the international webinar event of Cyberpsychology, hosted by five universities with speaker from Coventry University, UK",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
   },
   {
-    "name": "Project Gamma",
+    "name": "StockOpname",
     "year": "2022",
-    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
-    "tags": ["terraform", "aws", "grafana"],
+    "description": "An application to record the in-and-outs of supplies in BPJS Ketenagakerjaan Panam",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
   },
   {
-    "name": "Project Gamma",
-    "year": "2022",
-    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
-    "tags": ["terraform", "aws", "grafana"],
+    "name": "Persediaan",
+    "year": "2021",
+    "description": "An application to record the in-and-outs of supplies in Kantor Imigrasi Kelas I TPI Pekanbaru",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
-  }
+  },
 ]
