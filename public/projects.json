@@ -23,7 +23,7 @@
   {
     "name": "Cyberpsychology Paper Submission & Acceptance System",
     "year": "2023",
-    "description": "A paper submission and acceptance application built for the international webinar event of Cyberpsychology, hosted by five universities with speaker from Coventry University, UK",
+    "description": "A paper submission and acceptance app built for an international webinar event of hosted by five universities with speaker from Coventry University, UK",
     "tags": ["Laravel", "MySQL", "Bootstrap"],
     "screenshot": null
   },

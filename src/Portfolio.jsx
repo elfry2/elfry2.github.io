@@ -43,6 +43,10 @@ const css = `
   .contact-link { font-size: 14px; color: var(--muted); text-decoration: none; display: flex; align-items: center; gap: 6px; transition: color .15s; }
   .contact-link:hover { color: var(--ink); }
   .contact-link i { font-size: 16px; }
+  .list { display: block; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); border: 0.5px solid var(--border); border-radius: 12px; overflow: hidden; }
+  .list-item { background: var(--color-background-primary, #fff); padding: 1.25rem 1.5rem; transition: background .15s; border-right: 0.5px solid var(--border); border-bottom: 0.5px solid var(--border); }
+  .list-item:hover { background: var(--surface); }
+  .list-item-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: .75rem; }
 `;
 
 function useJson(url) {
@@ -57,6 +61,7 @@ const scrollTo = id => document.getElementById(id)?.scrollIntoView({ behavior: "
 export default function Portfolio() {
   const profile = useJson("/profile.json");
   const projects = useJson("/projects.json");
+  const jobs = useJson("/jobs.json");
 
   const initials = profile?.nickname?.split(" ").map(w => w[0]).join("") ?? "…";
 
@@ -92,6 +97,26 @@ export default function Portfolio() {
             {projects?.map((p, i) => (
               <div className="card" key={i}>
                 <div className="card-top">
+                  <span className="card-name">{p.name}</span>
+                  <span className="card-year">{p.year}</span>
+                </div>
+                <p className="card-desc">{p.description}</p>
+                <div className="card-tags">
+                  {p.tags.map(t => <span className="card-tag" key={t}>{t}</span>)}
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <div className="divider" />
+
+        <section id="experience">
+          <p className="label">Professional highlights</p>
+          <div className="list">
+            {jobs?.map((p, i) => (
+              <div className="list-item" key={i}>
+                <div className="list-item-top">
                   <span className="card-name">{p.name}</span>
                   <span className="card-year">{p.year}</span>
                 </div>
