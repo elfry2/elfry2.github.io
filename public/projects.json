@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BTW-ERP",
+    "year": "2025",
+    "description": "An ERP application tailored to the unique business needs of PT Berkah Tirta Wahana",
+    "tags": ["React", "Laravel", "PostgreSQL"],
+    "screenshot": null
+  },
+  {
+    "name": "dekita",
+    "year": "2023",
+    "description": "An multi-list to-do-list application built on Laravel 10, which I use as the template for my other Laravel apps at the time",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "depresi",
+    "year": "2023",
+    "description": "An Expert system for depression screening using the naive bayes algorithm",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "Cyberpsychology Paper Submission & Acceptance System",
+    "year": "2023",
+    "description": "A paper submission and acceptance application built for the international webinar event of Cyberpsychology, hosted by five universities with speaker from Coventry University, UK",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "StockOpname",
+    "year": "2022",
+    "description": "An application to record the in-and-outs of supplies in BPJS Ketenagakerjaan Panam",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "Persediaan",
+    "year": "2021",
+    "description": "An application to record the in-and-outs of supplies in Kantor Imigrasi Kelas I TPI Pekanbaru",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  }
+]

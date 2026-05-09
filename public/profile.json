@@ -1,0 +1,31 @@
+{
+  "nickname": "Elfry",
+  "fullName": "Muhammad Elfri Rahmad Juang",
+  "bio": "I make web apps, but I might also enjoy building your office network.",
+  "available": true,
+  "stack": [
+    "React",
+    "Laravel",
+    "PostgreSQL",
+    "MongoDB",
+    "Cisco",
+    "MikroTik"
+  ],
+  "contacts": [
+    {
+        "label": "Email",
+        "icon": "ti-mail",
+        "href": "mailto:elfry3@gmail.com"
+    },
+    {
+        "label": "GitHub",
+        "icon": "ti-brand-github",
+        "href": "https://github.com/elfry2"
+    },
+    {
+        "label": "LinkedIn",
+        "icon": "ti-brand-linkedin",
+        "href": "https://linkedin.com/in/elfry2"
+    }
+  ]
+}
