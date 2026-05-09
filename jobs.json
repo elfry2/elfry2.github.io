@@ -1,0 +1,37 @@
+[
+  {
+    "name": "PT Berkah Tirta Wahana, Full-Stack Web Developer",
+    "year": "May 2025–Apr 2026",
+    "description": "Led a team of developers as the project manager in the development of BTW-ERP, an enterprise resource planning application built on top of Laravel and React to support workflows across departments including those previously handled by SISFO, customer chat management and late-reply warning system, etc.",
+    "tags": ["React", "Laravel", "PostgreSQL"],
+    "screenshot": null
+  },
+  {
+    "name": "PT Global Jet Express (J&T Express), Network Management Staff",
+    "year": "Apr 2024–May 2025",
+    "description": "Responsible for providing tactical support for branches in meeting diverse, fast-evolving KPIs, working with excellent and experienced Coordinators across major cities as well as remote districts in Riau. Made sure 70% of packets arrive before lunchtime",
+    "tags": ["Operational Support", "Internal audit"],
+    "screenshot": null
+  },
+  {
+    "name": "BPJS Ketenagakerjaan Panam, Full-Stack Web Developer Intern",
+    "year": "Feb–Mar 2022",
+    "description": "Responsible for the development of StockOpname: a web-based application to simplify the recording and the reporting of the in-and-outs of supplies",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "Kantor Imigrasi Kelas I TPI Pekanbaru, Full-Stack Web Developer Intern",
+    "year": "Mar–Apr 2021",
+    "description": "Responsible for the development of StockOpname: a web-based application to simplify the recording and the reporting of the in-and-outs of supplies",
+    "tags": ["Laravel", "MySQL", "Bootstrap"],
+    "screenshot": null
+  },
+  {
+    "name": "PT Aplikanusa Lintasarta, Network Engineer Intern",
+    "year": "Jul–Oct 2017",
+    "description": "Participated in multiple network installations and maintenance for numerous enterprises and public facilities across Pekanbaru including Sultan Syarif Kasim II International Airport, getting the opportunity of working with long-range routers & VSATs",
+    "tags": ["Network installation", "Network troubleshooting", "Network maintenance"],
+    "screenshot": null
+  }
+]
