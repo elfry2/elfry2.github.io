@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Project Alpha",
+    "year": "2024",
+    "description": "Distributed task queue handling 50k jobs/sec. Reduced p99 latency by 40% through smarter backpressure.",
+    "tags": ["go", "redis", "k8s"],
+    "screenshot": null
+  },
+  {
+    "name": "Project Beta",
+    "year": "2023",
+    "description": "Event-driven data pipeline ingesting real-time telemetry from 10k+ IoT devices into a queryable lakehouse.",
+    "tags": ["typescript", "kafka", "dbt"],
+    "screenshot": null
+  },
+  {
+    "name": "Project Gamma",
+    "year": "2022",
+    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
+    "tags": ["terraform", "aws", "grafana"],
+    "screenshot": null
+  },
+  {
+    "name": "Project Gamma",
+    "year": "2022",
+    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
+    "tags": ["terraform", "aws", "grafana"],
+    "screenshot": null
+  },
+  {
+    "name": "Project Gamma",
+    "year": "2022",
+    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
+    "tags": ["terraform", "aws", "grafana"],
+    "screenshot": null
+  },
+  {
+    "name": "Project Gamma",
+    "year": "2022",
+    "description": "Internal dev platform unifying CI/CD, secrets, and observability across 30+ microservices.",
+    "tags": ["terraform", "aws", "grafana"],
+    "screenshot": null
+  }
+]
