@@ -53,6 +53,7 @@ function useJson(url) {
 
 const scrollTo = id => document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
 
+
 export default function Portfolio() {
   const profile = useJson("/profile.json");
   const projects = useJson("/projects.json");
